@@ -538,6 +538,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP: Comment</string>
+			<key>scope</key>
+			<string>comment.block.documentation.phpdoc.php, comment.block.documentation.phpdoc.php invalid.illegal.missing-asterisk.phpdoc.php</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#26292c</string>
+				<key>foreground</key>
+				<string>#a6a8a6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>PHP: Array()</string>
 			<key>scope</key>
 			<string>meta.array.php support.function.construct.php, meta.array.empty.php support.function.construct.php</string>
