@@ -657,6 +657,39 @@
 				<string>#92b1c9</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Meta Property Value</string>
+			<key>scope</key>
+			<string>meta.property-value.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c1c67a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Keyword Other Unit</string>
+			<key>scope</key>
+			<string>keyword.other.unit.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f3cf86</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: Meta Property Value</string>
+			<key>scope</key>
+			<string>punctuation.separator.key-value.css, punctuation.terminator.rule.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#feffff</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>9dee4fc7-4f6f-4fb7-af67-0bc4eac4c49b</string>
